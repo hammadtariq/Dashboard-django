@@ -1,4 +1,4 @@
-# Learn Python 3 in Baby Steps
+# Django with Python 3
 
 # Create a virtual environment by writing commands in terminal
 Follow Link for setting up the environment: http://tutorial.djangogirls.org/en/django_installation/
